@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Percy Jackson and the Lightning Thief</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Percy Jackson and the Lightning Thief</h1>
+        <p>Percy Jackson, a young boy, discovers he's the son of Poseidon and embarks on a quest to retrieve Zeus's stolen lightning bolt.</p>
+        <p>Accompanied by Annabeth (Athena's daughter) and Grover (a satyr), Percy faces mythological monsters and gods to prevent a war between the Olympians.</p>
+        <p>Join Percy on his thrilling adventure through the world of Greek mythology.</p>
+    </div>
+</body>
+</html>
+```
